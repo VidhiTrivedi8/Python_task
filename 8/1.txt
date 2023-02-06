@@ -1,0 +1,13 @@
+intro to sec
+
+	making sure that inteded program of system cannot be misused
+	
+
+
+
+
+tools and secure compilation
+securing linux system
+securing kernel
+hardening the boot process
+vendor support for sec
